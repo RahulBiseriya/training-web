@@ -1,0 +1,14 @@
+body,html{
+text-align: center;
+background-color: darkblue;
+}
+#notice{
+    color:white;
+}
+
+#name{
+    margin-bottom: 0;
+}
+#foot{
+    margin-top: 0;
+}
